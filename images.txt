@@ -1,1 +1,3 @@
 vdsm/virtual-dsm
+odoo:17
+postgres:13
